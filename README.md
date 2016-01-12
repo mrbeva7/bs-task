@@ -11,7 +11,7 @@
 5. Customize the colors, sizes etc to finalize the layout
   * Check chapter Customize from [Sitepoint](http://www.sitepoint.com/bootstrap-sass-installation-and-customisation/)
 
-Commit the finished task to your own GitHub account
+6. Commit the finished task to your own GitHub account
   * git remote set-url origin http://github.com/YOU/YOUR_REPO
   * git add .
   * git push
