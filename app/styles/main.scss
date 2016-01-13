@@ -1,5 +1,7 @@
 $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
-
+// liitetään tiedostot bootstrapin kustomointia varten
+@import "_custom-fonts.scss";
+@import "_custom-variables.scss";
 // bower:scss
 @import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 // endbower
