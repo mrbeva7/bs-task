@@ -1,7 +1,7 @@
 # Bootstrap task
 1. Create new folder and clone this repo there in terminal/shell/bash
     * cloning: git clone address_of_this_repo
-    * cloning creates a folder called bsTask. Go there, cd bsTask
+    * cloning creates a folder called bs-task. Go there, cd bs-task
     * load linked apps: npm install
     * load dependencies: bower install
     * start automation: grunt serve
